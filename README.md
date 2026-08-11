@@ -21,7 +21,7 @@ This project recreates the basic structure of a university portal login page as 
 
 ## Live Demo
 
-[View the Login Page](https://abdulrehman-02.github.io/Web-Technologies/)
+[View the Login Page](https://abdulrehman-02.github.io/umt-login-page/)
 
 ## Note
 
